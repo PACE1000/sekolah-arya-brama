@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FF39B54A</color>
+    <color name="background_keyboard">#FFF5F7FA</color>
+    <color name="off_button">#FFA9A9A9</color>
+    <color name="next_button">#FF00BC35</color>
+</resources>
